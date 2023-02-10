@@ -1,0 +1,61 @@
+.home {
+    display: flex;
+    justify-content: center; 
+    /* margin-top: 50px; */
+}
+
+.key_style {
+    font-size: 40px;
+    margin: 20px;
+
+}
+
+.value_style {
+    font-size: 40px;
+    margin: 20px 40px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 500;
+    width: 80px;
+    text-align: center;
+
+}
+
+.button_style {
+    font-size: 60px;
+    margin: 20px;
+    border-radius: 10px;
+    font-weight: 100;
+    width: 50px;
+    background-color: rgb(93, 91, 91);
+    color: white;
+    font-size: 30px;
+    border-style: none;
+
+}
+
+.button_style:hover {
+    cursor: pointer;
+    background-color:rgb(150, 147, 147) ;
+}
+
+
+.chart_main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chart_button {
+    background-color: white;
+    border-radius: 20px;
+    margin: 20px;
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+}
+
+.chart_button:hover {
+    cursor: pointer;
+    background-color:rgb(150, 147, 147);
+}
