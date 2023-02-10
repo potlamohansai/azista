@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/azista/static/css/main.ef614938.css",
+    "main.js": "/azista/static/js/main.a7191560.js",
+    "index.html": "/azista/index.html",
+    "main.ef614938.css.map": "/azista/static/css/main.ef614938.css.map",
+    "main.a7191560.js.map": "/azista/static/js/main.a7191560.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef614938.css",
+    "static/js/main.a7191560.js"
+  ]
+}
